@@ -1,0 +1,1 @@
+run argument: run  --redeploy="target/classes/**/*.class" --launcher-class=com.vv.App
